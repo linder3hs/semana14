@@ -1,0 +1,4 @@
+Nombre: Juan
+Condicion: Aprobaste !!!
+promedio: 15
+Fecha: 2021-06-22

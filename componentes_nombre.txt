@@ -1,0 +1,5 @@
+mouse
+teclado
+monitor
+camara web
+tarjeta de video
